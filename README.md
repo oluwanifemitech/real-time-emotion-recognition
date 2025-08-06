@@ -2,11 +2,6 @@
 
 A Python application that uses OpenCV and a custom-trained Convolutional Neural Network (CNN) with TensorFlow/Keras to detect human faces from a live webcam feed and classify their emotions in real-time.
 
-## Demo
-
-*(This is a great place to add a GIF of your project in action! You can use tools like Giphy Capture or ScreenToGif to record your screen.)*
-
-![Demo GIF](c:\Users\nifem\Downloads\emotiongif.gif)
 
 ---
 
